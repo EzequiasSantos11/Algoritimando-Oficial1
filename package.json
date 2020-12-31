@@ -1,0 +1,26 @@
+{
+  "name": "Algoritimando-Oficial",
+  "version": "1.0.0",
+  "description": "Versão Hospedada do site Algoritimando.",
+  "main": "robots.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzequiasSantos11/Algoritimando-Oficial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EzequiasSantos11/Algoritimando-Oficial/issues"
+  },
+  "homepage": "https://github.com/EzequiasSantos11/Algoritimando-Oficial#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "next": "^10.0.1",
+    "react": "16.13.1",
+    "react-down": "0.4.1"
+  }
+}
