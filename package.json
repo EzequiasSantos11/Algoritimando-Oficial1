@@ -1,5 +1,5 @@
 {
-  "name": "Algoritimando-Oficial1",
+  "name": "algoritimando-oficial",
   "version": "1.0.0",
   "description": "Versão Hospedada do site Algoritimando.",
   "main": "robots.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EzequiasSantos11/Algoritimando-Oficial.git"
+    "url": "https://github.com/EzequiasSantos11/Algoritimando-Oficial1.git"
   },
   "keywords": [],
   "author": "",
